@@ -21,3 +21,4 @@ The project is using the SQLAlchemy Python library to generate the database.
 ## My Solution
 
 This is my outcome.
+![My Instagram Diagram](https://raw.githubusercontent.com/NicolasArayaB/exercise-instagram-data-modeling/master/outcome.png)
